@@ -15,6 +15,6 @@ Run_analysis.R is an R script that does the following:
 ---------------------
 The resulting dataset is contained in final_dataset.txt
 
-##Codebook.md
+## codebook.md
 ---------------
 The codebook.md lists and provides information on the variables in final_dataset.txt
